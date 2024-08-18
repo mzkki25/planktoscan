@@ -1,0 +1,561 @@
+image_name,x,y,w,h
+Achnanthes sp 1.jpg,152,48,392,432
+Achnanthes sp 1_blur.jpg,152,48,392,432
+Achnanthes sp 1_horizontal.jpg,320,48,392,432
+Achnanthes sp 1_rotate.jpg,320,96,392,434
+Achnanthes sp 1_scale.jpg,192,176,432,392
+Achnanthes sp 1_vertical.jpg,152,96,392,432
+Achnanthes sp 1_zoom.jpg,96,0,472,520
+Achnanthes sp 2.jpg,264,200,208,224
+Achnanthes sp 2_blur.jpg,264,200,208,224
+Achnanthes sp 2_horizontal.jpg,392,200,208,224
+Achnanthes sp 2_rotate.jpg,392,152,208,224
+Achnanthes sp 2_scale.jpg,344,248,220,208
+Achnanthes sp 2_vertical.jpg,264,152,208,224
+Achnanthes sp 2_zoom.jpg,232,184,248,264
+Achnanthes sp 3.jpg,136,32,432,472
+Achnanthes sp 3_blur.jpg,136,32,432,472
+Achnanthes sp 3_horizontal.jpg,296,32,432,472
+Achnanthes sp 3_rotate.jpg,296,78,432,466
+Achnanthes sp 3_scale.jpg,176,152,472,424
+Achnanthes sp 3_vertical.jpg,136,72,432,472
+Achnanthes sp 3_zoom.jpg,80,0,517,544
+Bacteriastrum delicatulum 1.jpg,288,0,450,560
+Bacteriastrum delicatulum 1_blur.jpg,288,0,450,560
+Bacteriastrum delicatulum 1_horizontal.jpg,126,0,450,560
+Bacteriastrum delicatulum 1_rotate.jpg,126,16,450,560
+Bacteriastrum delicatulum 1_scale.jpg,144,0,560,432
+Bacteriastrum delicatulum 1_vertical.jpg,288,16,450,560
+Bacteriastrum delicatulum 1_zoom.jpg,264,0,536,576
+Bacteriastrum delicatulum 2.jpg,256,64,312,392
+Bacteriastrum delicatulum 2_blur.jpg,256,67,312,389
+Bacteriastrum delicatulum 2_horizontal.jpg,296,64,312,392
+Bacteriastrum delicatulum 2_rotate.jpg,296,120,312,392
+Bacteriastrum delicatulum 2_scale.jpg,209,152,391,312
+Bacteriastrum delicatulum 2_vertical.jpg,256,120,312,392
+Bacteriastrum delicatulum 2_zoom.jpg,221,24,379,464
+Bacteriastrum delicatulum 3.jpg,288,72,280,384
+Bacteriastrum delicatulum 3_blur.jpg,288,72,280,384
+Bacteriastrum delicatulum 3_horizontal.jpg,296,72,277,384
+Bacteriastrum delicatulum 3_rotate.jpg,296,120,280,384
+Bacteriastrum delicatulum 3_scale.jpg,216,152,384,280
+Bacteriastrum delicatulum 3_vertical.jpg,291,120,277,384
+Bacteriastrum delicatulum 3_zoom.jpg,256,32,344,456
+Bacteriastrum delicatulum 4.jpg,264,0,464,536
+Bacteriastrum delicatulum 4_blur.jpg,264,0,464,536
+Bacteriastrum delicatulum 4_horizontal.jpg,136,0,464,536
+Bacteriastrum delicatulum 4_rotate.jpg,136,40,464,536
+Bacteriastrum delicatulum 4_scale.jpg,144,0,536,456
+Bacteriastrum delicatulum 4_vertical.jpg,264,40,464,536
+Bacteriastrum delicatulum 4_zoom.jpg,328,0,456,576
+Bleakeleya notata 1.jpg,336,128,178,376
+Bleakeleya notata 1_blur.jpg,336,128,184,374
+Bleakeleya notata 1_horizontal.jpg,350,128,173,376
+Bleakeleya notata 1_rotate.jpg,350,72,178,376
+Bleakeleya notata 1_scale.jpg,272,206,376,177
+Bleakeleya notata 1_vertical.jpg,341,72,173,376
+Bleakeleya notata 1_zoom.jpg,320,96,213,448
+Bleakeleya notata 2.jpg,320,56,258,520
+Bleakeleya notata 2_blur.jpg,320,56,258,520
+Bleakeleya notata 2_horizontal.jpg,286,56,255,520
+Bleakeleya notata 2_rotate.jpg,286,0,258,520
+Bleakeleya notata 2_scale.jpg,200,142,520,255
+Bleakeleya notata 2_vertical.jpg,323,0,255,520
+Bleakeleya notata 2_zoom.jpg,328,8,280,568
+Chaetoceros affinis 1.jpg,330,35,270,429
+Chaetoceros affinis 1_blur.jpg,332,32,268,432
+Chaetoceros affinis 1_horizontal.jpg,262,32,274,432
+Chaetoceros affinis 1_rotate.jpg,264,112,272,432
+Chaetoceros affinis 1_scale.jpg,182,118,426,274
+Chaetoceros affinis 1_vertical.jpg,330,112,270,432
+Chaetoceros affinis 1_zoom.jpg,312,0,324,498
+Chaetoceros affinis 2.jpg,296,0,392,560
+Chaetoceros affinis 2_blur.jpg,296,0,392,557
+Chaetoceros affinis 2_horizontal.jpg,176,0,394,556
+Chaetoceros affinis 2_rotate.jpg,176,16,392,560
+Chaetoceros affinis 2_scale.jpg,144,35,555,391
+Chaetoceros affinis 2_vertical.jpg,296,21,392,555
+Chaetoceros affinis 2_zoom.jpg,264,0,472,576
+Chaetoceros affinis 3.jpg,240,0,511,560
+Chaetoceros affinis 3_blur.jpg,240,0,512,560
+Chaetoceros affinis 3_horizontal.jpg,112,0,512,560
+Chaetoceros affinis 3_rotate.jpg,112,16,512,560
+Chaetoceros affinis 3_scale.jpg,144,0,560,480
+Chaetoceros affinis 3_vertical.jpg,240,16,511,560
+Chaetoceros affinis 3_zoom.jpg,200,0,608,576
+Chaetoceros diversus 1.jpg,344,219,208,197
+Chaetoceros diversus 1_blur.jpg,344,216,208,200
+Chaetoceros diversus 1_horizontal.jpg,312,216,208,200
+Chaetoceros diversus 1_rotate.jpg,312,160,208,196
+Chaetoceros diversus 1_scale.jpg,363,168,197,204
+Chaetoceros diversus 1_vertical.jpg,344,160,208,197
+Chaetoceros diversus 1_zoom.jpg,328,208,248,232
+Chaetoceros diversus 2.jpg,296,160,304,296
+Chaetoceros diversus 2_blur.jpg,296,160,304,296
+Chaetoceros diversus 2_horizontal.jpg,264,160,304,296
+Chaetoceros diversus 2_rotate.jpg,264,120,304,296
+Chaetoceros diversus 2_scale.jpg,304,120,296,304
+Chaetoceros diversus 2_vertical.jpg,296,120,304,296
+Chaetoceros diversus 2_zoom.jpg,272,136,360,352
+Chaetoceros peruvianus 1.jpg,320,104,408,416
+Chaetoceros peruvianus 1_blur.jpg,323,104,405,416
+Chaetoceros peruvianus 1_horizontal.jpg,136,104,408,416
+Chaetoceros peruvianus 1_rotate.jpg,140,56,404,416
+Chaetoceros peruvianus 1_scale.jpg,248,0,416,398
+Chaetoceros peruvianus 1_vertical.jpg,320,56,408,416
+Chaetoceros peruvianus 1_zoom.jpg,304,64,480,504
+Coscinodiscus oculus-iridis 1.jpg,264,120,384,384
+Coscinodiscus oculus-iridis 1_blur.jpg,264,119,384,385
+Coscinodiscus oculus-iridis 1_horizontal.jpg,216,120,384,384
+Coscinodiscus oculus-iridis 1_rotate.jpg,216,72,384,384
+Coscinodiscus oculus-iridis 1_scale.jpg,264,72,384,384
+Coscinodiscus oculus-iridis 1_vertical.jpg,264,72,384,384
+Coscinodiscus oculus-iridis 1_zoom.jpg,230,80,466,464
+Diatom 1.jpg,400,126,152,258
+Diatom 1_blur.jpg,400,126,154,258
+Diatom 1_horizontal.jpg,312,121,152,263
+Diatom 1_rotate.jpg,310,192,156,264
+Diatom 1_scale.jpg,270,168,258,152
+Diatom 1_vertical.jpg,400,192,152,258
+Diatom 1_zoom.jpg,392,94,186,306
+Diatom 2.jpg,376,48,232,384
+Diatom 2_blur.jpg,376,48,232,383
+Diatom 2_horizontal.jpg,256,48,234,384
+Diatom 2_rotate.jpg,256,150,234,378
+Diatom 2_scale.jpg,192,112,384,232
+Diatom 2_vertical.jpg,376,144,232,384
+Diatom 2_zoom.jpg,360,0,280,456
+Diatom 3.jpg,376,48,232,384
+Diatom 3_blur.jpg,376,48,232,384
+Diatom 3_horizontal.jpg,256,48,233,384
+Diatom 3_rotate.jpg,256,144,232,384
+Diatom 3_scale.jpg,192,112,384,232
+Diatom 3_vertical.jpg,376,144,232,384
+Diatom 3_zoom.jpg,360,0,280,456
+Diatom 4.jpg,376,56,224,368
+Diatom 4_blur.jpg,376,56,224,368
+Diatom 4_horizontal.jpg,264,56,224,368
+Diatom 4_rotate.jpg,264,152,224,368
+Diatom 4_scale.jpg,200,120,368,224
+Diatom 4_vertical.jpg,376,152,224,368
+Diatom 4_zoom.jpg,368,8,272,446
+Diatom 5.jpg,376,46,224,378
+Diatom 5_blur.jpg,376,40,224,384
+Diatom 5_horizontal.jpg,264,46,224,378
+Diatom 5_rotate.jpg,264,152,224,384
+Diatom 5_scale.jpg,189,120,379,224
+Diatom 5_vertical.jpg,376,152,224,378
+Diatom 5_zoom.jpg,360,0,272,448
+Guinardia flaccida 1.jpg,261,88,411,357
+Guinardia flaccida 1_blur.jpg,261,88,411,360
+Guinardia flaccida 1_horizontal.jpg,192,88,412,360
+Guinardia flaccida 1_rotate.jpg,190,136,418,352
+Guinardia flaccida 1_scale.jpg,232,46,355,418
+Guinardia flaccida 1_vertical.jpg,261,131,411,357
+Guinardia flaccida 1_zoom.jpg,224,47,496,425
+Guinardia flaccida 2.jpg,376,104,152,320
+Guinardia flaccida 2_blur.jpg,376,107,152,317
+Guinardia flaccida 2_horizontal.jpg,336,104,152,320
+Guinardia flaccida 2_rotate.jpg,336,152,152,320
+Guinardia flaccida 2_scale.jpg,254,192,314,152
+Guinardia flaccida 2_vertical.jpg,376,152,152,320
+Guinardia flaccida 2_zoom.jpg,368,72,184,384
+Hemiaulus hauckii 1.jpg,384,168,80,202
+Hemiaulus hauckii 1_blur.jpg,384,169,80,201
+Hemiaulus hauckii 1_horizontal.jpg,400,168,80,202
+Hemiaulus hauckii 1_rotate.jpg,400,208,80,200
+Hemiaulus hauckii 1_scale.jpg,317,256,195,80
+Hemiaulus hauckii 1_vertical.jpg,384,206,80,202
+Hemiaulus hauckii 1_zoom.jpg,376,152,96,234
+Hemiaulus membranaceus 1.jpg,280,152,200,232
+Hemiaulus membranaceus 1_blur.jpg,280,152,199,232
+Hemiaulus membranaceus 1_horizontal.jpg,384,152,200,232
+Hemiaulus membranaceus 1_rotate.jpg,385,192,199,232
+Hemiaulus membranaceus 1_scale.jpg,296,240,232,200
+Hemiaulus membranaceus 1_vertical.jpg,280,192,200,232
+Hemiaulus membranaceus 1_zoom.jpg,248,126,240,282
+Hemiaulus membranaceus 2.jpg,280,152,194,232
+Hemiaulus membranaceus 2_blur.jpg,280,152,194,232
+Hemiaulus membranaceus 2_horizontal.jpg,391,152,193,232
+Hemiaulus membranaceus 2_rotate.jpg,390,192,194,232
+Hemiaulus membranaceus 2_scale.jpg,296,246,232,194
+Hemiaulus membranaceus 2_vertical.jpg,280,192,194,232
+Hemiaulus membranaceus 2_zoom.jpg,248,128,234,280
+Mastogloia sp 1.jpg,376,256,128,208
+Mastogloia sp 1_blur.jpg,376,256,128,208
+Mastogloia sp 1_horizontal.jpg,360,256,128,208
+Mastogloia sp 1_rotate.jpg,360,112,128,208
+Mastogloia sp 1_scale.jpg,400,216,208,128
+Mastogloia sp 1_vertical.jpg,376,112,128,208
+Mastogloia sp 1_zoom.jpg,360,248,160,248
+Mastogloia sp 2.jpg,376,256,128,208
+Mastogloia sp 2_blur.jpg,376,256,128,208
+Mastogloia sp 2_horizontal.jpg,360,256,128,208
+Mastogloia sp 2_rotate.jpg,360,112,128,208
+Mastogloia sp 2_scale.jpg,400,216,208,128
+Mastogloia sp 2_vertical.jpg,376,112,128,208
+Mastogloia sp 2_zoom.jpg,360,250,160,246
+Mastogloia sp 3.jpg,376,256,128,208
+Mastogloia sp 3_blur.jpg,376,256,128,208
+Mastogloia sp 3_horizontal.jpg,360,256,128,208
+Mastogloia sp 3_rotate.jpg,360,112,128,208
+Mastogloia sp 3_scale.jpg,400,216,208,128
+Mastogloia sp 3_vertical.jpg,376,112,128,208
+Mastogloia sp 3_zoom.jpg,360,248,160,248
+Mastogloia sp 4.jpg,344,72,250,400
+Mastogloia sp 4_blur.jpg,344,72,253,400
+Mastogloia sp 4_horizontal.jpg,270,72,250,400
+Mastogloia sp 4_rotate.jpg,270,104,250,400
+Mastogloia sp 4_scale.jpg,216,126,400,250
+Mastogloia sp 4_vertical.jpg,344,104,250,400
+Mastogloia sp 4_zoom.jpg,328,30,298,482
+Nitzschia 1.jpg,112,294,640,74
+Nitzschia 1_blur.jpg,112,288,640,80
+Nitzschia 1_horizontal.jpg,112,294,640,71
+Nitzschia 1_rotate.jpg,112,213,640,75
+Nitzschia 1_scale.jpg,448,0,48,576
+Nitzschia 1_vertical.jpg,112,209,640,73
+Nitzschia 1_zoom.jpg,48,296,762,80
+Nitzschia 2.jpg,224,288,424,48
+Nitzschia 2_blur.jpg,224,288,424,48
+Nitzschia 2_horizontal.jpg,216,288,424,48
+Nitzschia 2_rotate.jpg,216,240,424,48
+Nitzschia 2_scale.jpg,432,72,48,424
+Nitzschia 2_vertical.jpg,224,240,424,48
+Nitzschia 2_zoom.jpg,184,288,512,56
+Nitzschia 3.jpg,64,485,432,51
+Nitzschia 3_blur.jpg,64,480,432,56
+Nitzschia 3_horizontal.jpg,368,484,432,52
+Nitzschia 3_rotate.jpg,368,40,432,53
+Nitzschia 3_scale.jpg,625,224,39,352
+Nitzschia 3_vertical.jpg,64,40,432,56
+Nitzschia 3_zoom.jpg,0,523,512,53
+Nitzschia 4.jpg,64,484,432,52
+Nitzschia 4_blur.jpg,64,484,432,52
+Nitzschia 4_horizontal.jpg,368,486,432,50
+Nitzschia 4_rotate.jpg,368,40,432,50
+Nitzschia 4_scale.jpg,624,224,40,352
+Nitzschia 4_vertical.jpg,64,40,432,50
+Nitzschia 4_zoom.jpg,0,526,511,50
+Nitzschia longissima 1.jpg,143,0,577,576
+Nitzschia longissima 1_blur.jpg,141,0,583,576
+Nitzschia longissima 1_horizontal.jpg,144,0,578,576
+Nitzschia longissima 1_rotate.jpg,144,0,584,576
+Nitzschia longissima 1_scale.jpg,143,0,578,576
+Nitzschia longissima 1_vertical.jpg,142,0,578,576
+Nitzschia longissima 1_zoom.jpg,80,0,701,576
+Plagiotropis lepidoptera 1.jpg,160,0,672,576
+Plagiotropis lepidoptera 1_blur.jpg,160,0,672,575
+Plagiotropis lepidoptera 1_horizontal.jpg,32,0,672,576
+Plagiotropis lepidoptera 1_rotate.jpg,32,0,672,576
+Plagiotropis lepidoptera 1_scale.jpg,144,0,576,560
+Plagiotropis lepidoptera 1_vertical.jpg,160,0,672,576
+Plagiotropis lepidoptera 1_zoom.jpg,104,0,760,576
+Plagiotropis lepidoptera 2.jpg,448,168,344,296
+Plagiotropis lepidoptera 2_blur.jpg,448,170,344,294
+Plagiotropis lepidoptera 2_horizontal.jpg,72,168,344,296
+Plagiotropis lepidoptera 2_rotate.jpg,72,112,344,296
+Plagiotropis lepidoptera 2_scale.jpg,312,0,296,272
+Plagiotropis lepidoptera 2_vertical.jpg,448,112,344,296
+Plagiotropis lepidoptera 2_zoom.jpg,456,144,403,352
+Plagiotropis lepidoptera 3.jpg,448,168,344,296
+Plagiotropis lepidoptera 3_blur.jpg,448,168,344,296
+Plagiotropis lepidoptera 3_horizontal.jpg,72,168,344,296
+Plagiotropis lepidoptera 3_rotate.jpg,72,112,344,296
+Plagiotropis lepidoptera 3_scale.jpg,312,0,296,272
+Plagiotropis lepidoptera 3_vertical.jpg,448,112,344,296
+Plagiotropis lepidoptera 3_zoom.jpg,456,152,400,344
+Plagiotropis lepidoptera 4.jpg,160,0,672,576
+Plagiotropis lepidoptera 4_blur.jpg,160,0,672,576
+Plagiotropis lepidoptera 4_horizontal.jpg,32,0,672,576
+Plagiotropis lepidoptera 4_rotate.jpg,32,0,672,576
+Plagiotropis lepidoptera 4_scale.jpg,144,0,576,560
+Plagiotropis lepidoptera 4_vertical.jpg,160,0,672,576
+Plagiotropis lepidoptera 4_zoom.jpg,104,0,760,576
+Pleurosigma 1.jpg,576,168,80,152
+Pleurosigma 1_blur.jpg,576,168,80,152
+Pleurosigma 1_horizontal.jpg,208,170,80,150
+Pleurosigma 1_rotate.jpg,208,256,78,152
+Pleurosigma 1_scale.jpg,312,64,152,74
+Pleurosigma 1_vertical.jpg,578,256,78,150
+Pleurosigma 1_zoom.jpg,608,144,88,184
+Proboscia alata 1.jpg,184,136,528,368
+Proboscia alata 1_blur.jpg,184,136,528,368
+Proboscia alata 1_horizontal.jpg,152,136,528,368
+Proboscia alata 1_rotate.jpg,152,72,528,368
+Proboscia alata 1_scale.jpg,280,8,368,530
+Proboscia alata 1_vertical.jpg,184,72,528,368
+Proboscia alata 1_zoom.jpg,134,104,634,440
+Proboscia indica 1.jpg,160,168,506,104
+Proboscia indica 1_blur.jpg,160,168,512,104
+Proboscia indica 1_horizontal.jpg,198,168,506,104
+Proboscia indica 1_rotate.jpg,198,304,506,104
+Proboscia indica 1_scale.jpg,312,54,104,506
+Proboscia indica 1_vertical.jpg,160,304,506,104
+Proboscia indica 1_zoom.jpg,104,144,608,120
+Proboscia indica 2.jpg,72,232,648,184
+Proboscia indica 2_blur.jpg,72,232,648,182
+Proboscia indica 2_horizontal.jpg,144,232,648,184
+Proboscia indica 2_rotate.jpg,144,160,648,184
+Proboscia indica 2_scale.jpg,376,0,181,576
+Proboscia indica 2_vertical.jpg,72,160,648,184
+Proboscia indica 2_zoom.jpg,0,224,778,216
+Proboscia indica 3.jpg,0,128,744,168
+Proboscia indica 3_blur.jpg,0,128,744,168
+Proboscia indica 3_horizontal.jpg,120,128,744,168
+Proboscia indica 3_rotate.jpg,120,280,744,168
+Proboscia indica 3_scale.jpg,288,0,152,576
+Proboscia indica 3_vertical.jpg,0,280,744,168
+Proboscia indica 3_zoom.jpg,0,104,808,192
+Proboscia indica 4.jpg,0,128,736,168
+Proboscia indica 4_blur.jpg,0,128,736,168
+Proboscia indica 4_horizontal.jpg,128,128,736,168
+Proboscia indica 4_rotate.jpg,128,280,736,168
+Proboscia indica 4_scale.jpg,288,0,152,576
+Proboscia indica 4_vertical.jpg,0,280,736,168
+Proboscia indica 4_zoom.jpg,0,104,800,192
+Proboscia indica 5.jpg,112,73,539,471
+Proboscia indica 5_blur.jpg,112,78,541,466
+Proboscia indica 5_horizontal.jpg,210,78,542,466
+Proboscia indica 5_rotate.jpg,213,32,539,466
+Proboscia indica 5_scale.jpg,232,69,456,507
+Proboscia indica 5_vertical.jpg,112,32,540,466
+Proboscia indica 5_zoom.jpg,48,32,640,544
+Pseudo-nitzschia spp 1.jpg,128,270,536,82
+Pseudo-nitzschia spp 1_blur.jpg,128,264,536,88
+Pseudo-nitzschia spp 1_horizontal.jpg,200,264,533,88
+Pseudo-nitzschia spp 1_rotate.jpg,200,224,534,88
+Pseudo-nitzschia spp 1_scale.jpg,408,56,88,520
+Pseudo-nitzschia spp 1_vertical.jpg,128,224,536,88
+Pseudo-nitzschia spp 1_zoom.jpg,72,264,640,104
+Pseudo-nitzschia spp 2.jpg,41,264,799,128
+Pseudo-nitzschia spp 2_blur.jpg,41,264,799,128
+Pseudo-nitzschia spp 2_horizontal.jpg,24,264,800,128
+Pseudo-nitzschia spp 2_rotate.jpg,24,184,800,128
+Pseudo-nitzschia spp 2_scale.jpg,414,0,114,576
+Pseudo-nitzschia spp 2_vertical.jpg,40,184,800,128
+Pseudo-nitzschia spp 2_zoom.jpg,0,256,864,152
+Pseudo-nitzschia spp 3.jpg,40,264,800,128
+Pseudo-nitzschia spp 3_blur.jpg,40,264,800,128
+Pseudo-nitzschia spp 3_horizontal.jpg,24,264,800,128
+Pseudo-nitzschia spp 3_rotate.jpg,24,184,800,128
+Pseudo-nitzschia spp 3_scale.jpg,416,0,112,576
+Pseudo-nitzschia spp 3_vertical.jpg,40,184,800,128
+Pseudo-nitzschia spp 3_zoom.jpg,0,262,864,146
+Pseudo-nitzschia spp 4.jpg,201,272,399,64
+Pseudo-nitzschia spp 4_blur.jpg,200,272,400,64
+Pseudo-nitzschia spp 4_horizontal.jpg,264,272,400,64
+Pseudo-nitzschia spp 4_rotate.jpg,264,240,400,64
+Pseudo-nitzschia spp 4_scale.jpg,416,121,64,399
+Pseudo-nitzschia spp 4_vertical.jpg,200,240,400,64
+Pseudo-nitzschia spp 4_zoom.jpg,152,270,480,74
+Pseudosolenia calcar-avis 1.jpg,368,157,192,355
+Pseudosolenia calcar-avis 1_blur.jpg,368,152,192,360
+Pseudosolenia calcar-avis 1_horizontal.jpg,306,157,190,355
+Pseudosolenia calcar-avis 1_rotate.jpg,304,64,192,360
+Pseudosolenia calcar-avis 1_scale.jpg,300,160,356,192
+Pseudosolenia calcar-avis 1_vertical.jpg,368,64,192,355
+Pseudosolenia calcar-avis 1_zoom.jpg,352,128,232,432
+Pseudosolenia calcar-avis 2.jpg,328,16,288,536
+Pseudosolenia calcar-avis 2_blur.jpg,328,16,288,536
+Pseudosolenia calcar-avis 2_horizontal.jpg,248,16,288,536
+Pseudosolenia calcar-avis 2_rotate.jpg,248,29,288,531
+Pseudosolenia calcar-avis 2_scale.jpg,160,104,534,290
+Pseudosolenia calcar-avis 2_vertical.jpg,328,24,288,536
+Pseudosolenia calcar-avis 2_zoom.jpg,307,0,328,576
+Pseudosolenia calcar-avis 3.jpg,333,16,275,528
+Pseudosolenia calcar-avis 3_blur.jpg,332,16,276,528
+Pseudosolenia calcar-avis 3_horizontal.jpg,256,16,277,528
+Pseudosolenia calcar-avis 3_rotate.jpg,256,32,276,528
+Pseudosolenia calcar-avis 3_scale.jpg,160,112,528,278
+Pseudosolenia calcar-avis 3_vertical.jpg,331,32,277,525
+Pseudosolenia calcar-avis 3_zoom.jpg,312,0,322,576
+Rhizosolenia calcar-avis 1.jpg,96,62,640,514
+Rhizosolenia calcar-avis 1_blur.jpg,96,62,640,514
+Rhizosolenia calcar-avis 1_horizontal.jpg,128,62,640,514
+Rhizosolenia calcar-avis 1_rotate.jpg,128,0,640,516
+Rhizosolenia calcar-avis 1_scale.jpg,216,0,504,576
+Rhizosolenia calcar-avis 1_vertical.jpg,96,0,636,514
+Rhizosolenia calcar-avis 1_zoom.jpg,96,16,696,560
+Rhizosolenia calcar-avis 2.jpg,96,56,640,520
+Rhizosolenia calcar-avis 2_blur.jpg,94,56,642,520
+Rhizosolenia calcar-avis 2_horizontal.jpg,128,56,643,520
+Rhizosolenia calcar-avis 2_rotate.jpg,128,0,648,520
+Rhizosolenia calcar-avis 2_scale.jpg,224,0,496,576
+Rhizosolenia calcar-avis 2_vertical.jpg,93,0,643,520
+Rhizosolenia calcar-avis 2_zoom.jpg,96,8,704,568
+Rhizosolenia cochlea 1.jpg,336,57,256,399
+Rhizosolenia cochlea 1_blur.jpg,336,56,256,400
+Rhizosolenia cochlea 1_horizontal.jpg,272,56,256,400
+Rhizosolenia cochlea 1_rotate.jpg,272,122,256,398
+Rhizosolenia cochlea 1_scale.jpg,200,128,400,256
+Rhizosolenia cochlea 1_vertical.jpg,336,120,256,400
+Rhizosolenia cochlea 1_zoom.jpg,312,8,312,480
+Rhizosolenia cochlea 2.jpg,336,56,256,400
+Rhizosolenia cochlea 2_blur.jpg,336,56,256,400
+Rhizosolenia cochlea 2_horizontal.jpg,272,56,256,400
+Rhizosolenia cochlea 2_rotate.jpg,272,120,256,400
+Rhizosolenia cochlea 2_scale.jpg,201,128,399,256
+Rhizosolenia cochlea 2_vertical.jpg,336,120,256,400
+Rhizosolenia cochlea 2_zoom.jpg,313,8,311,478
+Rhizosolenia cochlea 3.jpg,240,0,416,418
+Rhizosolenia cochlea 3_blur.jpg,240,0,416,418
+Rhizosolenia cochlea 3_horizontal.jpg,208,0,416,418
+Rhizosolenia cochlea 3_rotate.jpg,208,158,416,418
+Rhizosolenia cochlea 3_scale.jpg,144,64,418,416
+Rhizosolenia cochlea 3_vertical.jpg,240,158,416,418
+Rhizosolenia cochlea 3_zoom.jpg,232,0,472,448
+Rhizosolenia imbricata 1.jpg,96,64,752,512
+Rhizosolenia imbricata 10.jpg,192,0,488,536
+Rhizosolenia imbricata 10_blur.jpg,192,0,488,536
+Rhizosolenia imbricata 10_horizontal.jpg,184,0,487,536
+Rhizosolenia imbricata 10_rotate.jpg,184,40,488,536
+Rhizosolenia imbricata 10_scale.jpg,144,40,536,488
+Rhizosolenia imbricata 10_vertical.jpg,192,40,488,536
+Rhizosolenia imbricata 10_zoom.jpg,192,0,536,576
+Rhizosolenia imbricata 1_blur.jpg,96,63,752,513
+Rhizosolenia imbricata 1_horizontal.jpg,16,64,752,512
+Rhizosolenia imbricata 1_rotate.jpg,16,0,752,513
+Rhizosolenia imbricata 1_scale.jpg,208,0,512,576
+Rhizosolenia imbricata 1_vertical.jpg,96,0,752,512
+Rhizosolenia imbricata 1_zoom.jpg,32,16,832,560
+Rhizosolenia imbricata 2.jpg,320,104,304,376
+Rhizosolenia imbricata 2_blur.jpg,320,104,304,376
+Rhizosolenia imbricata 2_horizontal.jpg,240,105,304,375
+Rhizosolenia imbricata 2_rotate.jpg,240,96,304,376
+Rhizosolenia imbricata 2_scale.jpg,248,96,376,304
+Rhizosolenia imbricata 2_vertical.jpg,320,96,304,376
+Rhizosolenia imbricata 2_zoom.jpg,296,72,368,448
+Rhizosolenia imbricata 3.jpg,400,0,72,488
+Rhizosolenia imbricata 3_blur.jpg,400,0,72,488
+Rhizosolenia imbricata 3_horizontal.jpg,392,0,72,488
+Rhizosolenia imbricata 3_rotate.jpg,392,88,72,488
+Rhizosolenia imbricata 3_scale.jpg,144,248,488,72
+Rhizosolenia imbricata 3_vertical.jpg,400,88,72,488
+Rhizosolenia imbricata 3_zoom.jpg,400,0,80,528
+Rhizosolenia imbricata 4.jpg,400,0,72,488
+Rhizosolenia imbricata 4_blur.jpg,400,0,72,488
+Rhizosolenia imbricata 4_horizontal.jpg,392,0,72,488
+Rhizosolenia imbricata 4_rotate.jpg,392,88,72,488
+Rhizosolenia imbricata 4_scale.jpg,144,248,488,72
+Rhizosolenia imbricata 4_vertical.jpg,400,88,72,488
+Rhizosolenia imbricata 4_zoom.jpg,400,0,80,528
+Rhizosolenia imbricata 5.jpg,56,72,808,504
+Rhizosolenia imbricata 5_blur.jpg,56,72,808,504
+Rhizosolenia imbricata 5_horizontal.jpg,0,72,808,504
+Rhizosolenia imbricata 5_rotate.jpg,0,0,808,504
+Rhizosolenia imbricata 5_scale.jpg,216,0,504,576
+Rhizosolenia imbricata 5_vertical.jpg,56,0,808,504
+Rhizosolenia imbricata 5_zoom.jpg,0,24,864,552
+Rhizosolenia imbricata 6.jpg,193,0,487,536
+Rhizosolenia imbricata 6_blur.jpg,192,0,488,536
+Rhizosolenia imbricata 6_horizontal.jpg,184,0,488,536
+Rhizosolenia imbricata 6_rotate.jpg,184,40,488,536
+Rhizosolenia imbricata 6_scale.jpg,144,40,536,488
+Rhizosolenia imbricata 6_vertical.jpg,192,40,488,536
+Rhizosolenia imbricata 6_zoom.jpg,195,0,533,576
+Rhizosolenia imbricata 7.jpg,170,88,654,488
+Rhizosolenia imbricata 7_blur.jpg,168,88,655,488
+Rhizosolenia imbricata 7_horizontal.jpg,40,88,656,488
+Rhizosolenia imbricata 7_rotate.jpg,40,0,656,488
+Rhizosolenia imbricata 7_scale.jpg,232,0,482,552
+Rhizosolenia imbricata 7_vertical.jpg,168,0,656,488
+Rhizosolenia imbricata 7_zoom.jpg,120,48,712,528
+Rhizosolenia imbricata 8.jpg,192,0,488,536
+Rhizosolenia imbricata 8_blur.jpg,192,0,488,536
+Rhizosolenia imbricata 8_horizontal.jpg,184,0,488,536
+Rhizosolenia imbricata 8_rotate.jpg,184,40,488,536
+Rhizosolenia imbricata 8_scale.jpg,144,40,535,488
+Rhizosolenia imbricata 8_vertical.jpg,192,40,488,536
+Rhizosolenia imbricata 8_zoom.jpg,195,0,533,576
+Rhizosolenia imbricata 9.jpg,152,0,504,552
+Rhizosolenia imbricata 9_blur.jpg,150,0,506,552
+Rhizosolenia imbricata 9_horizontal.jpg,206,0,506,552
+Rhizosolenia imbricata 9_rotate.jpg,206,24,508,552
+Rhizosolenia imbricata 9_scale.jpg,144,62,552,508
+Rhizosolenia imbricata 9_vertical.jpg,152,24,504,552
+Rhizosolenia imbricata 9_zoom.jpg,144,0,560,576
+Tetramphora (Amphora) decussata 1.jpg,296,200,280,216
+Tetramphora (Amphora) decussata 1_blur.jpg,296,200,280,213
+Tetramphora (Amphora) decussata 1_horizontal.jpg,288,200,280,215
+Tetramphora (Amphora) decussata 1_rotate.jpg,288,160,280,216
+Tetramphora (Amphora) decussata 1_scale.jpg,345,144,213,280
+Tetramphora (Amphora) decussata 1_vertical.jpg,296,161,280,215
+Tetramphora (Amphora) decussata 1_zoom.jpg,264,184,336,256
+Tetramphora (Amphora) decussata 2.jpg,296,208,280,200
+Tetramphora (Amphora) decussata 2_blur.jpg,296,208,280,200
+Tetramphora (Amphora) decussata 2_horizontal.jpg,288,208,280,200
+Tetramphora (Amphora) decussata 2_rotate.jpg,288,168,280,200
+Tetramphora (Amphora) decussata 2_scale.jpg,352,144,200,280
+Tetramphora (Amphora) decussata 2_vertical.jpg,296,168,280,200
+Tetramphora (Amphora) decussata 2_zoom.jpg,264,192,336,240
+Tetramphora (Amphora) decussata 3.jpg,336,280,144,104
+Tetramphora (Amphora) decussata 3_blur.jpg,336,280,144,104
+Tetramphora (Amphora) decussata 3_horizontal.jpg,384,280,144,104
+Tetramphora (Amphora) decussata 3_rotate.jpg,384,192,144,104
+Tetramphora (Amphora) decussata 3_scale.jpg,424,240,104,144
+Tetramphora (Amphora) decussata 3_vertical.jpg,336,192,144,104
+Tetramphora (Amphora) decussata 3_zoom.jpg,320,272,168,128
+Thalassionema nitzschioides 1.jpg,328,231,189,177
+Thalassionema nitzschioides 1_blur.jpg,328,231,185,177
+Thalassionema nitzschioides 1_horizontal.jpg,350,232,186,176
+Thalassionema nitzschioides 1_rotate.jpg,350,168,186,178
+Thalassionema nitzschioides 1_scale.jpg,375,206,177,186
+Thalassionema nitzschioides 1_vertical.jpg,328,168,189,177
+Thalassionema nitzschioides 1_zoom.jpg,312,216,218,216
+Thalassionema nitzschioides 2.jpg,230,184,378,344
+Thalassionema nitzschioides 2_blur.jpg,224,184,384,344
+Thalassionema nitzschioides 2_horizontal.jpg,256,184,380,344
+Thalassionema nitzschioides 2_rotate.jpg,256,48,378,344
+Thalassionema nitzschioides 2_scale.jpg,328,112,344,384
+Thalassionema nitzschioides 2_vertical.jpg,229,48,379,344
+Thalassionema nitzschioides 2_zoom.jpg,184,160,456,416
+Toxarium undulatum 1.jpg,0,91,840,189
+Toxarium undulatum 1_blur.jpg,0,88,840,192
+Toxarium undulatum 1_horizontal.jpg,24,92,840,188
+Toxarium undulatum 1_rotate.jpg,24,296,840,192
+Toxarium undulatum 1_scale.jpg,296,0,128,576
+Toxarium undulatum 1_vertical.jpg,0,296,840,188
+Toxarium undulatum 1_zoom.jpg,0,72,864,208
+Toxarium undulatum 2.jpg,264,0,400,560
+Toxarium undulatum 2_blur.jpg,264,0,400,560
+Toxarium undulatum 2_horizontal.jpg,200,0,400,560
+Toxarium undulatum 2_rotate.jpg,200,16,400,560
+Toxarium undulatum 2_scale.jpg,144,56,560,400
+Toxarium undulatum 2_vertical.jpg,264,16,400,560
+Toxarium undulatum 2_zoom.jpg,344,0,355,576
+Toxarium undulatum 3.jpg,216,0,424,576
+Toxarium undulatum 3_blur.jpg,216,0,424,576
+Toxarium undulatum 3_horizontal.jpg,224,0,424,576
+Toxarium undulatum 3_rotate.jpg,224,0,424,576
+Toxarium undulatum 3_scale.jpg,144,80,576,424
+Toxarium undulatum 3_vertical.jpg,216,0,424,576
+Toxarium undulatum 3_zoom.jpg,240,0,416,576
+Toxarium undulatum 4.jpg,320,0,432,576
+Toxarium undulatum 4_blur.jpg,320,0,432,576
+Toxarium undulatum 4_horizontal.jpg,112,0,432,576
+Toxarium undulatum 4_rotate.jpg,114,0,430,576
+Toxarium undulatum 4_scale.jpg,144,0,576,400
+Toxarium undulatum 4_vertical.jpg,320,0,432,576
+Toxarium undulatum 4_zoom.jpg,344,0,432,576
+Toxarium undulatum 5.jpg,368,0,192,552
+Toxarium undulatum 5_blur.jpg,368,0,192,552
+Toxarium undulatum 5_horizontal.jpg,304,0,188,552
+Toxarium undulatum 5_rotate.jpg,304,24,192,552
+Toxarium undulatum 5_scale.jpg,144,160,552,192
+Toxarium undulatum 5_vertical.jpg,372,24,188,552
+Toxarium undulatum 5_zoom.jpg,376,0,208,576
+Toxarium undulatum 6.jpg,0,88,840,192
+Toxarium undulatum 6_blur.jpg,0,88,840,192
+Toxarium undulatum 6_horizontal.jpg,24,88,840,192
+Toxarium undulatum 6_rotate.jpg,24,296,840,192
+Toxarium undulatum 6_scale.jpg,296,0,128,576
+Toxarium undulatum 6_vertical.jpg,0,296,840,192
+Toxarium undulatum 6_zoom.jpg,0,72,864,208
+Toxarium undulatum 7.jpg,0,136,864,176
+Toxarium undulatum 7_blur.jpg,0,136,864,176
+Toxarium undulatum 7_horizontal.jpg,0,136,864,176
+Toxarium undulatum 7_rotate.jpg,0,264,864,176
+Toxarium undulatum 7_scale.jpg,344,0,112,576
+Toxarium undulatum 7_vertical.jpg,0,264,864,176
+Toxarium undulatum 7_zoom.jpg,0,148,864,172
