@@ -10,6 +10,14 @@ body {
     overflow: hidden;
 }
 
+.main {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+}
+
 .background {
     position: fixed;
     width: 100%;
